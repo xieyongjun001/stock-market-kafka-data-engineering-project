@@ -6,6 +6,10 @@ In this project, you will execute an End-To-End Data Engineering Project on Real
 We are going to use different technologies such as Python, Amazon Web Services (AWS), Apache Kafka, Glue, Athena, and SQL.
 
 ## Usages
+### Apply EC2 Instance for free tier.
+### When applying the instance, create a key-pair download the pem file to your machine
+### ssh -i "my-amz-ec2-keypair.pem" ec2-user@xxxxxxxx.compute-1.amazonaws.com in your connection section aws provided.
+
 Follow the command_kafka.txt of your AWS account
 
 ## Architecture 
